@@ -4,4 +4,4 @@
 3. 编写配置文件 applicationContext.xml  springmvc.xml  web.xml
 4. 编写测试代码进行测试
 5. 编写controller层 service层
-6. 编写jsp页面，实现ajax异步请求 
+6. 编写jsp页面，实现ajax异步请求  
